@@ -1,0 +1,7 @@
+classes= 4
+train  = data/train.txt
+valid  = data/val.txt
+#difficult = data/difficult_2007_test.txt
+names = data/csmodels.names
+backup = backup_3/  
+

@@ -1,0 +1,23 @@
+                                    fbi militia assault office
+gign  Cobblestone, Italy, Cache 
+                                  gsg overpass
+                                    idf dust dust 2
+                                 sas Inferno, Shorttrain, Mirage
+                                     seals Train, Aztec, Nuke
+                                    swat vertigo
+ksk
+=================================
+                                     anarchist office
+                                      balkan train
+                                      leef dust dust 2
+           phoenix Aztec, Cobblestone, Assault, Militia, Overpass, Cache, Nuke
+Pirate  Sugarcane, Shoots, Stmarc
+                                     Professional Bank, Vertigo, Safehouse
+                                 Separatist Inferno, Italy
+==============================
+dust2 idf leef
+office anarchist fbi
+train  seals balkan
+vertigo swat professional
+overpass gsg phoenix
+inferno sas separatist

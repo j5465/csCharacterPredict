@@ -1,0 +1,11 @@
+枪/
+backup/
+backup_3/
+backup_head/
+data/ 
+recoil/
+*.png
+*.conv.*
+*.mp4
+results/
+weapon/
